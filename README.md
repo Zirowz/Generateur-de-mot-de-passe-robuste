@@ -17,7 +17,7 @@ git clone https://github.com/Zirowz/Generateur-de-mot-de-passe-robuste.git cd Ge
 ```
 
 ## Contribuer
-Si vous rencontrez des bugs ou avez des suggestions, contactez-moi sur discord : **ZirowzSurMc.**
+Si vous rencontrez des bugs ou avez des suggestions, contactez-moi sur discord : **Zirowz.**
 
 ## Licence
 Ce projet est sous licence MIT.
